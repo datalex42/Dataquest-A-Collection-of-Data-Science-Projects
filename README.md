@@ -24,10 +24,7 @@ WORK IN PROGESS
 -->
 
 [![Contributors](https://img.shields.io/github/contributors/42-yumetourou/projects.svg?style=for-the-badge)](https://github.com/42-yumetourou/projects/graphs/contributors)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers](https://img.shields.io/github/stars/42-yumetourou/projects.svg?style=for-the-badge)](https://github.com/42-yumetourou/projects/stargazers)     
-[![Issues][issues-shield]][issues-url]  
-[![MIT License][license-shield]][license-url]
+[![Stargazers](https://img.shields.io/github/stars/42-yumetourou/projects.svg?style=for-the-badge)](https://github.com/42-yumetourou/projects/stargazers)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
