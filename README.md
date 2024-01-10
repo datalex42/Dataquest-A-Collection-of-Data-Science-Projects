@@ -18,13 +18,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]](https://github.com/42-yumetourou/projects/graphs/contributors)
+
+[![Contributors](https://img.shields.io/github/contributors/42-yumetourou/projects.svg?style=for-the-badge)](https://github.com/42-yumetourou/projects/graphs/contributors)
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]      
+[![Stargazers](https://img.shields.io/github/stars/42-yumetourou/projects.svg?style=for-the-badge)](https://github.com/42-yumetourou/projects/stargazers)     
 [![Issues][issues-shield]][issues-url]  
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
