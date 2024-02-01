@@ -34,7 +34,7 @@ Welcome to my repository of `Dataquest` data science projects! In this collectio
 - [Project_Analyzing_NYC_High_School_Data](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/7_Project_Analyzing_NYC_High_School_Data.ipynb)
 - [Project_Star_Wars_Survey](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/8_Project_Star_Wars_Survey.ipynb)
 - [Project_Popular_Data_Science_Questions](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/9_Project_Popular_Data_Science_Questions.ipynb)
-- In Progress...
+- ...
 
 <hr>
 
