@@ -1,81 +1,62 @@
 in progress 
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/42-yumetourou/projects/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/42-yumetourou/projects/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/42-yumetourou/projects/">View Demo</a>
-    ·
-    <a href="https://github.com/42-yumetourou/projects/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/42-yumetourou/projects/issues">Request Feature</a>
+<p align="center">
   </p>
 </div>
 
+<hr>
 
+### <center><p align = "left">`Introduction`</p> </center>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+Welcome to my repository of `Dataquest` data science projects! In this collection, I utilize `Python` and `SQL` to explore and analyze various datasets, aiming to answer insightful questions using data science methodologies.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<hr>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+### <center><p align = "left">`Projects Overview`</p> </center>
+
+- [Project_Prison Break](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/0_Project_Prison%20Break.ipynb)
+- [SQL_Project_Analyzing_Kickstarter_Projects](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/0_SQL_Project_Analyzing_Kickstarter_Projects.ipynb)
+- [Project_Profitable_App_Profiles](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/1_Project_Profitable_App_Profiles.ipynb)
+- [SQL_Project_Customers_and_Products_Analysis](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/1_SQL_Project_Customers_and_Products_Analysis.ipynb)
+- [Project_Hacker_News_Posts](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/2_Project_Hacker_News_Posts.ipynb)
+- [SQL_Project_Window_Functions_Northwind_Traders](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/2_SQL_Project_Window_Functions_Northwind_Traders.ipynb)
+- [Project_Exploring_eBay_Car-Sales_Data](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/3_Project_Exploring_eBay_Car-Sales_Data.ipynb)
+- [Project_Heavy_Traffic_Indicators_on_I-94](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/4_Project_Heavy_Traffic_Indicators_on_I-94.ipynb)
+- [Project_Data_Visualization_on_Exchange_Rates](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/5_Project_Data_Visualization_on_Exchange_Rates.ipynb)
+- [Project_Clean_and_Analyze_Employee_Exit_Surveys](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/6_Project_Clean_and_Analyze_Employee_Exit_Surveys.ipynb
+)
+- [Project_Analyzing_NYC_High_School_Data](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/7_Project_Analyzing_NYC_High_School_Data.ipynb)
+- [Project_Star_Wars_Survey](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/8_Project_Star_Wars_Survey.ipynb)
+- [Project_Popular_Data_Science_Questions](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/9_Project_Popular_Data_Science_Questions.ipynb)
+- In Progress...
+
+<hr>
+
+### <center><p align = "left">`Built With`</p> </center>
+
+- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+- ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<hr>
+
+### <center><p align = "left">`Roadmap`</p> </center>
+
+- [ ] Project: Investigating Fandango Movie Ratings
+- [ ] Project: Finding the Best Markets to Advertise In
+- [ ] Project: Mobile App for Lottery Addiction
+- [ ] Section: Statistics Essentials and Advanced Statistics
+- [ ] Neural Networks with Tensorflow
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
