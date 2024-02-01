@@ -8,13 +8,13 @@
 
 <hr>
 
-### <center><p align = "left">`👉 Introduction`</p> </center>
+### <center><p align = "left">👉 `Introduction`</p> </center>
 
 Welcome to my repository of `data science` projects! In this collection, I utilize `Python` and `SQL` to explore and analyze various datasets, aiming to answer insightful questions using data science methodologies.
 
 <hr>
 
-### <center><p align = "left">`👀 Projects Overview`</p> </center>
+### <center><p align = "left">👀 `Projects Overview`</p> </center>
 
 - [Project_Prison Break](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/0_Project_Prison%20Break.ipynb)
 - [SQL_Project_Analyzing_Kickstarter_Projects](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/0_SQL_Project_Analyzing_Kickstarter_Projects.ipynb)
@@ -34,7 +34,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 
 <hr>
 
-### <center><p align = "left">`🛠️ Built With`</p> </center>
+### <center><p align = "left">🛠️ `Built With`</p> </center>
 
 - ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -44,7 +44,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 
 <hr>
 
-### <center><p align = "left">`🛣️ Roadmap`</p> </center>
+### <center><p align = "left">🛣️ `Roadmap`</p> </center>
 
 - [ ] Project: Investigating Fandango Movie Ratings
 - [ ] Project: Finding the Best Markets to Advertise In
