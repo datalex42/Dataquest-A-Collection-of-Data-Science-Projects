@@ -1,10 +1,6 @@
-in progress 
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/42-yumetourou/projects/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/datalex42/projects/">
+    <img src="assets/dqheader1.gif">
   </a>
 <p align="center">
   </p>
