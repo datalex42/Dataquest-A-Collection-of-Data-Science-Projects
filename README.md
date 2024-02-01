@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/datalex42/projects/">
-    <img src="assets/dqheader1.gif">
+    <img src="assets/dqheadergo.gif">
   </a>
 <p align="center">
   </p>
