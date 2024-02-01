@@ -14,7 +14,7 @@ in progress
 
 ### <center><p align = "left">`Introduction`</p> </center>
 
-Welcome to my repository of `Dataquest` data science projects! In this collection, I utilize `Python` and `SQL` to explore and analyze various datasets, aiming to answer insightful questions using data science methodologies.
+Welcome to my repository of `data science` projects! In this collection, I utilize `Python` and `SQL` to explore and analyze various datasets, aiming to answer insightful questions using data science methodologies.
 
 <hr>
 
