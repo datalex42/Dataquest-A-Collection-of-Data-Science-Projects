@@ -52,7 +52,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
