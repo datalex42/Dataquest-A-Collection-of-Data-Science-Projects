@@ -30,6 +30,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [Project_Analyzing_NYC_High_School_Data](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/7_Project_Analyzing_NYC_High_School_Data.ipynb)
 - [Project_Star_Wars_Survey](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/8_Project_Star_Wars_Survey.ipynb)
 - [Project_Popular_Data_Science_Questions](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/9_Project_Popular_Data_Science_Questions.ipynb)
+- [Project_Investigating_Fandango_Movie_Ratings](https://github.com/datalex42/Dataquest/blob/main/0_STATISTICS_Project_Investigating_Fandango_Movie_Ratings.ipynb)
 - ...
 
 <hr>
@@ -46,7 +47,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 
 ### <center><p align = "left">🛣️ `Roadmap`</p> </center>
 
-- [ ] Project: Investigating Fandango Movie Ratings
+- [x] Project: Investigating Fandango Movie Ratings
 - [ ] Project: Finding the Best Markets to Advertise In
 - [ ] Project: Mobile App for Lottery Addiction
 - [ ] Section: Statistics Essentials and Advanced Statistics
