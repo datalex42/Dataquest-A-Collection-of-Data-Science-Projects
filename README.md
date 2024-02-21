@@ -47,7 +47,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 
 ### <center><p align = "left">🛣️ `Roadmap`</p> </center>
 
-- [x] Project: Investigating Fandango Movie Ratings
+- [X ] Project: Investigating Fandango Movie Ratings
 - [ ] Project: Finding the Best Markets to Advertise In
 - [ ] Project: Mobile App for Lottery Addiction
 - [ ] Section: Statistics Essentials and Advanced Statistics
