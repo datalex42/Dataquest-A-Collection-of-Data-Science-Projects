@@ -31,6 +31,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [Project_Star_Wars_Survey](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/8_Project_Star_Wars_Survey.ipynb)
 - [Project_Popular_Data_Science_Questions](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/9_Project_Popular_Data_Science_Questions.ipynb)
 - [Project_Investigating_Fandango_Movie_Ratings](https://github.com/datalex42/Dataquest/blob/main/0_STATISTICS_Project_Investigating_Fandango_Movie_Ratings.ipynb)
+- [Project Finding the Best Markets to Advertise In](https://github.com/datalex42/Dataquest/blob/8c10ca5d0651ca50cca1a88cb9390fd65ace8560/1_STATISTICS_Project_Finding_the_Best_Markets_to_Advertise_In.ipynb)
 - ...
 
 <hr>
@@ -48,7 +49,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 ### <center><p align = "left">🛣️ `Roadmap`</p> </center>
 
 - [X] Project: Investigating Fandango Movie Ratings (completed on 02/21/24)
-- [ ] Project: Finding the Best Markets to Advertise In
+- [X] Project: Finding the Best Markets to Advertise In (completed on 03/04/24)
 - [ ] Project: Mobile App for Lottery Addiction
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
