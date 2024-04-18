@@ -33,6 +33,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [Project_Investigating_Fandango_Movie_Ratings](https://github.com/datalex42/Dataquest/blob/main/0_STATISTICS_Project_Investigating_Fandango_Movie_Ratings.ipynb)
 - [Project Finding the Best Markets to Advertise In](https://github.com/datalex42/Dataquest/blob/8c10ca5d0651ca50cca1a88cb9390fd65ace8560/1_STATISTICS_Project_Finding_the_Best_Markets_to_Advertise_In.ipynb)
 - [Project Mobile App for Lottery Addiction](https://github.com/datalex42/Dataquest/blob/33570482095259aef8d6be4ee4e1383eb752010d/2_STATISTICS_Project_Mobile_App_for_Lottery_Addiction.ipynb)
+- [Project_Spam_Filter_with_Naive_Bayes](https://github.com/datalex42/Dataquest/blob/01ceb30214b71c41ef4dc03bf7d6a639856b3a61/10_Project_Building_a_Spam_Filter_with_Naive_Bayes.ipynb)
 - ...
 
 <hr>
@@ -52,6 +53,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [X] Project: Investigating Fandango Movie Ratings (completed on 02/21/24)
 - [X] Project: Finding the Best Markets to Advertise In (completed on 03/04/24)
 - [X] Project: Mobile App for Lottery Addiction (completed on 03/11/24)
+- [X] Project: Spam Filter with Naive Bayes algorithm (completed on 18/04/24)
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
 
