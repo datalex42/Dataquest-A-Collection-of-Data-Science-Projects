@@ -55,7 +55,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [X] Project: Finding the Best Markets to Advertise In (completed on 03/04/24)
 - [X] Project: Mobile App for Lottery Addiction (completed on 03/11/24)
 - [X] Project: Spam Filter with Naive Bayes algorithm (completed on 04/18/24)
-- [ ] Project: Winning Jeopardy (completed on 05/13/24)
+- [X] Project: Winning Jeopardy (completed on 05/13/24)
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
 
