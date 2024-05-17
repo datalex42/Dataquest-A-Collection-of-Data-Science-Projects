@@ -35,7 +35,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [Project Mobile App for Lottery Addiction](https://github.com/datalex42/Dataquest/blob/33570482095259aef8d6be4ee4e1383eb752010d/2_STATISTICS_Project_Mobile_App_for_Lottery_Addiction.ipynb)
 - [Project_Spam_Filter_with_Naive_Bayes](https://github.com/datalex42/Dataquest/blob/01ceb30214b71c41ef4dc03bf7d6a639856b3a61/10_Project_Building_a_Spam_Filter_with_Naive_Bayes.ipynb)
 - [Project_Winning_Jeopardy](https://github.com/datalex42/Dataquest/blob/fa4fdc4687f71290efca11fc868f9cd6ef32ccf3/11_Project_Winning_Jeopardy.ipynb)
-- [Project_Predicting_Heart_Disease](https://github.com/datalex42/Dataquest/blob/ff93bfb1c668329f0881d6345252afe5e36d23bb/12_Project_Predicting_Heart_Disease.ipynb)
+- [Project_Predicting_Heart_Disease](https://github.com/datalex42/Dataquest/blob/c65993b16529b85df96bc693d3378638cdb1671c/12_Project_Predicting_Heart_Disease.ipynb)
 - ...
 
 <hr>
