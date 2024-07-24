@@ -33,9 +33,10 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [Project_Investigating_Fandango_Movie_Ratings](https://github.com/datalex42/Dataquest/blob/main/0_STATISTICS_Project_Investigating_Fandango_Movie_Ratings.ipynb)
 - [Project Finding the Best Markets to Advertise In](https://github.com/datalex42/Dataquest/blob/8c10ca5d0651ca50cca1a88cb9390fd65ace8560/1_STATISTICS_Project_Finding_the_Best_Markets_to_Advertise_In.ipynb)
 - [Project Mobile App for Lottery Addiction](https://github.com/datalex42/Dataquest/blob/33570482095259aef8d6be4ee4e1383eb752010d/2_STATISTICS_Project_Mobile_App_for_Lottery_Addiction.ipynb)
-- [Project_Spam_Filter_with_Naive_Bayes](https://github.com/datalex42/Dataquest/blob/01ceb30214b71c41ef4dc03bf7d6a639856b3a61/10_Project_Building_a_Spam_Filter_with_Naive_Bayes.ipynb)
-- [Project_Winning_Jeopardy](https://github.com/datalex42/Dataquest/blob/fa4fdc4687f71290efca11fc868f9cd6ef32ccf3/11_Project_Winning_Jeopardy.ipynb)
-- [Project_Predicting_Heart_Disease](https://github.com/datalex42/Dataquest/blob/c65993b16529b85df96bc693d3378638cdb1671c/12_Project_Predicting_Heart_Disease.ipynb)
+- [Project_Spam Filter with Naive Bayes](https://github.com/datalex42/Dataquest/blob/01ceb30214b71c41ef4dc03bf7d6a639856b3a61/10_Project_Building_a_Spam_Filter_with_Naive_Bayes.ipynb)
+- [Project Winning Jeopardy](https://github.com/datalex42/Dataquest/blob/fa4fdc4687f71290efca11fc868f9cd6ef32ccf3/11_Project_Winning_Jeopardy.ipynb)
+- [Project Predictin Heart Disease](https://github.com/datalex42/Dataquest/blob/c65993b16529b85df96bc693d3378638cdb1671c/12_Project_Predicting_Heart_Disease.ipynb)
+- [Project Project Credit Card Customer Segmentation](https://github.com/datalex42/Dataquest/blob/3b533a7eed8d06f2260bfc3a91260e5944f36ab2/13_Project_Credit_Card_Customer_Segmentation.ipynb)
 - ...
 
 <hr>
@@ -58,6 +59,7 @@ Welcome to my repository of `data science` projects! In this collection, I utili
 - [X] Project: Spam Filter with Naive Bayes algorithm (completed on 04/18/24)
 - [X] Project: Winning Jeopardy (completed on 05/13/24)
 - [X] Project: Predicting Heart Disease (completed on 05/17/24)
+- [X] Project: Project Credit Card Customer Segmentation (completed on 07/23/24)
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
 
