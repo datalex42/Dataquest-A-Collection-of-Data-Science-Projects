@@ -10,7 +10,7 @@
 
 ### <center><p align = "left">👉 `Introduction`</p> </center>
 
-Welcome to my repository of `data science` projects! In this collection, I utilize `Python` and `SQL` to explore and analyze various datasets, aiming to answer insightful questions using data science methodologies.
+Welcome to my data science project repository! Here, you'll find a variety of projects that demonstrate the application of data science tools and techniques to solve real-world problems. These projects include data cleaning, exploratory data analysis, statistical analysis, machine learning, and data visualization. Each project is well-documented with a Jupyter Notebook to provide clear insights into the steps and methodologies used.
 
 <hr>
 
