@@ -27,16 +27,17 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [Project_Data_Visualization_on_Exchange_Rates](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/5_Project_Data_Visualization_on_Exchange_Rates.ipynb)
 - [Project_Clean_and_Analyze_Employee_Exit_Surveys](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/6_Project_Clean_and_Analyze_Employee_Exit_Surveys.ipynb
 )
-- [Project_Analyzing_NYC_High_School_Data](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/7_Project_Analyzing_NYC_High_School_Data.ipynb)
-- [Project_Star_Wars_Survey](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/8_Project_Star_Wars_Survey.ipynb)
-- [Project_Popular_Data_Science_Questions](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/9_Project_Popular_Data_Science_Questions.ipynb)
-- [Project_Investigating_Fandango_Movie_Ratings](https://github.com/datalex42/Dataquest/blob/main/0_STATISTICS_Project_Investigating_Fandango_Movie_Ratings.ipynb)
+- [Project Analyzing NYC High School Data](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/7_Project_Analyzing_NYC_High_School_Data.ipynb)
+- [Project Star Wars Survey](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/8_Project_Star_Wars_Survey.ipynb)
+- [Project Popular Data Science Questions](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/9_Project_Popular_Data_Science_Questions.ipynb)
+- [Project Investigating Fandango_Movie Ratings](https://github.com/datalex42/Dataquest/blob/main/0_STATISTICS_Project_Investigating_Fandango_Movie_Ratings.ipynb)
 - [Project Finding the Best Markets to Advertise In](https://github.com/datalex42/Dataquest/blob/8c10ca5d0651ca50cca1a88cb9390fd65ace8560/1_STATISTICS_Project_Finding_the_Best_Markets_to_Advertise_In.ipynb)
 - [Project Mobile App for Lottery Addiction](https://github.com/datalex42/Dataquest/blob/33570482095259aef8d6be4ee4e1383eb752010d/2_STATISTICS_Project_Mobile_App_for_Lottery_Addiction.ipynb)
-- [Project_Spam Filter with Naive Bayes](https://github.com/datalex42/Dataquest/blob/01ceb30214b71c41ef4dc03bf7d6a639856b3a61/10_Project_Building_a_Spam_Filter_with_Naive_Bayes.ipynb)
+- [Project Spam Filter with Naive Bayes](https://github.com/datalex42/Dataquest/blob/01ceb30214b71c41ef4dc03bf7d6a639856b3a61/10_Project_Building_a_Spam_Filter_with_Naive_Bayes.ipynb)
 - [Project Winning Jeopardy](https://github.com/datalex42/Dataquest/blob/fa4fdc4687f71290efca11fc868f9cd6ef32ccf3/11_Project_Winning_Jeopardy.ipynb)
 - [Project Predictin Heart Disease](https://github.com/datalex42/Dataquest/blob/c65993b16529b85df96bc693d3378638cdb1671c/12_Project_Predicting_Heart_Disease.ipynb)
 - [Project Project Credit Card Customer Segmentation](https://github.com/datalex42/Dataquest/blob/3b533a7eed8d06f2260bfc3a91260e5944f36ab2/13_Project_Credit_Card_Customer_Segmentation.ipynb)
+- [Project Predicting Insurance Costs](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/dbd3f9be1d51217f8965b5631b8c141c62a44148/14_Project_Predicting_Insurance_Costs.ipynb)
 - ...
 
 <hr>
@@ -60,6 +61,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [X] Project: Winning Jeopardy (completed on 05/13/24)
 - [X] Project: Predicting Heart Disease (completed on 05/17/24)
 - [X] Project: Project Credit Card Customer Segmentation (completed on 07/23/24)
+- [X] Project: Predicting Insurance Costs (completed on 08/23/24)
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
 
