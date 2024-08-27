@@ -38,6 +38,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [Project Predictin Heart Disease](https://github.com/datalex42/Dataquest/blob/c65993b16529b85df96bc693d3378638cdb1671c/12_Project_Predicting_Heart_Disease.ipynb)
 - [Project Project Credit Card Customer Segmentation](https://github.com/datalex42/Dataquest/blob/3b533a7eed8d06f2260bfc3a91260e5944f36ab2/13_Project_Credit_Card_Customer_Segmentation.ipynb)
 - [Project Predicting Insurance Costs](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/dbd3f9be1d51217f8965b5631b8c141c62a44148/14_Project_Predicting_Insurance_Costs.ipynb)
+- [Project Stochastic Gradient Descent on Linear Regression](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/0b9a4b3c748e74b8fd73a418a8ae00e53d68ca68/15_Project_Stochastic_Gradient_Descent_on_Linear_Regression.ipynb)
 - ...
 
 <hr>
@@ -62,6 +63,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [X] Project: Predicting Heart Disease (completed on 05/17/24)
 - [X] Project: Project Credit Card Customer Segmentation (completed on 07/23/24)
 - [X] Project: Predicting Insurance Costs (completed on 08/23/24)
+- [X] Project: Stochastic Gradient Descent on Linear Regression (completed on 08/27/24) 
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
 
