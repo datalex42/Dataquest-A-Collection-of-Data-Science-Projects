@@ -61,7 +61,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [X] Project: Spam Filter with Naive Bayes algorithm (completed on 04/18/24)
 - [X] Project: Winning Jeopardy (completed on 05/13/24)
 - [X] Project: Predicting Heart Disease (completed on 05/17/24)
-- [X] Project: Project Credit Card Customer Segmentation (completed on 07/23/24)
+- [X] Project: Credit Card Customer Segmentation (completed on 07/23/24)
 - [X] Project: Predicting Insurance Costs (completed on 08/23/24)
 - [X] Project: Stochastic Gradient Descent on Linear Regression (completed on 08/27/24) 
 - [ ] Section: Statistics Essentials and Advanced Statistics
