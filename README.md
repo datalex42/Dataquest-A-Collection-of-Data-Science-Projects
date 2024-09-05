@@ -40,7 +40,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [Project Predicting Insurance Costs](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/dbd3f9be1d51217f8965b5631b8c141c62a44148/14_Project_Predicting_Insurance_Costs.ipynb)
 - [Project Stochastic Gradient Descent on Linear Regression](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/0b9a4b3c748e74b8fd73a418a8ae00e53d68ca68/15_Project_Stochastic_Gradient_Descent_on_Linear_Regression.ipynb)
 - [Project Classifying Heart Disease](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/a0a19c8294cf5c70a0b0b1162efb832f1adac537/16_Project_Classifying_Heart_Disease.ipynb)
-- [Project Predicting Employee Productivity Using Tree Models](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/61092255896a4f67cfcfa08e72d815212a2b0c4d/17_Project_Predicting_Employee_Productivity_Using_Tree_Models.ipynb)
+- [Project Predicting Employee Productivity Using Tree Models](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/e5908ae14346d54f78e7d857ffb0b3f007f4a81a/17_Project_Predicting_Employee_Productivity_Using_Tree_Models.ipynb)
 - ...
 
 <hr>
