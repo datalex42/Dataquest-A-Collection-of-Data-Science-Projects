@@ -41,6 +41,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [Project Stochastic Gradient Descent on Linear Regression](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/0b9a4b3c748e74b8fd73a418a8ae00e53d68ca68/15_Project_Stochastic_Gradient_Descent_on_Linear_Regression.ipynb)
 - [Project Classifying Heart Disease](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/a0a19c8294cf5c70a0b0b1162efb832f1adac537/16_Project_Classifying_Heart_Disease.ipynb)
 - [Project Predicting Employee Productivity Using Tree Models](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/e5908ae14346d54f78e7d857ffb0b3f007f4a81a/17_Project_Predicting_Employee_Productivity_Using_Tree_Models.ipynb)
+- [Project Optimizing Model Prediction](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/8c47bd5ba245a9dab2e5f972a6b5720bdf6dd5cd/18_Project_Optimizing_Model_Prediction.ipynb)
 - ...
 
 <hr>
@@ -68,6 +69,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [X] Project: Stochastic Gradient Descent on Linear Regression (completed on 08/27/24)
 - [X] Project: Classifying Heart Disease (completed on 08/30/24)
 - [X] Project: Predicting Employee Productivity Using Tree Models (completed on 09/05/24)
+- [X] Project: Optimizing Model Prediction (completed on 09/10/24)
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
 
