@@ -42,7 +42,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [Project Classifying Heart Disease](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/a0a19c8294cf5c70a0b0b1162efb832f1adac537/16_Project_Classifying_Heart_Disease.ipynb)
 - [Project Predicting Employee Productivity Using Tree Models](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/e5908ae14346d54f78e7d857ffb0b3f007f4a81a/17_Project_Predicting_Employee_Productivity_Using_Tree_Models.ipynb)
 - [Project Optimizing Model Prediction](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/8c47bd5ba245a9dab2e5f972a6b5720bdf6dd5cd/18_Project_Optimizing_Model_Prediction.ipynb)
-- [Project redicting IPO Listing Gains with Neural Networks Using TensorFlow](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/a9ed1ac540dbde7bdb7e05ae80135f9b6cb1f54a/19_Project_Predicting_Listing_Gains_in_the_Indian_IPO_Market_Using_TensorFlow.ipynb)
+- [Project Predicting IPO Listing Gains with Neural Networks Using TensorFlow](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/a9ed1ac540dbde7bdb7e05ae80135f9b6cb1f54a/19_Project_Predicting_Listing_Gains_in_the_Indian_IPO_Market_Using_TensorFlow.ipynb)
 - ...
 
 <hr>
@@ -71,7 +71,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [X] Project: Classifying Heart Disease (completed on 08/30/24)
 - [X] Project: Predicting Employee Productivity Using Tree Models (completed on 09/05/24)
 - [X] Project: Optimizing Model Prediction (completed on 09/10/24)
-- [X] Project: redicting IPO Listing Gains with Neural Networks Using TensorFlow (completed on 09/17/24)
+- [X] Project: Predicting IPO Listing Gains with Neural Networks Using TensorFlow (completed on 09/17/24)
 - [ ] Section: Statistics Essentials and Advanced Statistics
 - [ ] Neural Networks with Tensorflow
 
