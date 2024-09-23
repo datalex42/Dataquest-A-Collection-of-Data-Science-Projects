@@ -73,7 +73,6 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [X] Project: Optimizing Model Prediction (completed on 09/10/24)
 - [X] Project: Predicting IPO Listing Gains with Neural Networks Using TensorFlow (completed on 09/17/24)
 - [ ] Section: Statistics Essentials and Advanced Statistics
-- [ ] Neural Networks with Tensorflow
 
 <p align="right">(<a href="#top">⬆️ back to top</a>)</p>
 
