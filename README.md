@@ -29,6 +29,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 )
 - [Project Analyzing NYC High School Data](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/7_Project_Analyzing_NYC_High_School_Data.ipynb)
 - [Project Star Wars Survey](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/8_Project_Star_Wars_Survey.ipynb)
+- [Project Exploring Financial Data using Nasdaq Data Link API](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/c7b82c9c7ad16a7a967139d61905652abb6b7cf8/8.5_Project_Exploring_Financial_Data_using_Nasdaq_Data_Link_API.ipynb)
 - [Project Popular Data Science Questions](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/9_Project_Popular_Data_Science_Questions.ipynb)
 - [Project Investigating Fandango_Movie Ratings](https://github.com/datalex42/Dataquest/blob/main/0_STATISTICS_Project_Investigating_Fandango_Movie_Ratings.ipynb)
 - [Project Finding the Best Markets to Advertise In](https://github.com/datalex42/Dataquest/blob/8c10ca5d0651ca50cca1a88cb9390fd65ace8560/1_STATISTICS_Project_Finding_the_Best_Markets_to_Advertise_In.ipynb)
@@ -43,7 +44,6 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [Project Predicting Employee Productivity Using Tree Models](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/e5908ae14346d54f78e7d857ffb0b3f007f4a81a/17_Project_Predicting_Employee_Productivity_Using_Tree_Models.ipynb)
 - [Project Optimizing Model Prediction](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/8c47bd5ba245a9dab2e5f972a6b5720bdf6dd5cd/18_Project_Optimizing_Model_Prediction.ipynb)
 - [Project Predicting IPO Listing Gains with Neural Networks Using TensorFlow](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/a9ed1ac540dbde7bdb7e05ae80135f9b6cb1f54a/19_Project_Predicting_Listing_Gains_in_the_Indian_IPO_Market_Using_TensorFlow.ipynb)
-- ...
 
 <hr>
 
@@ -72,7 +72,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [X] Project: Predicting Employee Productivity Using Tree Models (completed on 09/05/24)
 - [X] Project: Optimizing Model Prediction (completed on 09/10/24)
 - [X] Project: Predicting IPO Listing Gains with Neural Networks Using TensorFlow (completed on 09/17/24)
-- [ ] Section: Statistics Essentials and Advanced Statistics
+- [X] Project: Project: Exploring Financial Data using Nasdaq Data Link API (completed on 10/12/24)
 
 <p align="right">(<a href="#top">⬆️ back to top</a>)</p>
 
