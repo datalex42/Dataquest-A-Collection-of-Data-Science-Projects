@@ -15,7 +15,7 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 <hr>
 
 ### <center><p align = "left">👀 `Projects Overview`</p> </center>
-
+- ...
 - [Project_Prison Break](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/0_Project_Prison%20Break.ipynb)
 - [SQL_Project_Analyzing_Kickstarter_Projects](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/0_SQL_Project_Analyzing_Kickstarter_Projects.ipynb)
 - [Project_Profitable_App_Profiles](https://github.com/datalex42/DataQuest/blob/d9d3e76d99a4a51d3e6c55054160723864305051/1_Project_Profitable_App_Profiles.ipynb)
