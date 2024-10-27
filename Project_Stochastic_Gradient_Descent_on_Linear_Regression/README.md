@@ -4,3 +4,4 @@ For this exercise, we step into the role of somebody who likes to go to the gym.
 We'll use the Pandas library to load the dataset into a DataFrame, run exploratory data analysis, and clean the dataset for training a model. After cleaning the set, we'll split the data into training and testing sets. Then, we'll use the SDGRegressor from the Scikit Learn library to build and train a stochastic gradient descent linear regression model to predict how many people are at the gym on a given day from the features inputed. Finally, we'll evaluate the model and visualize the results using matplotlib.
 
 #### Project Link
+[Project_Stochastic_Gradient_Descent_on_Linear_Regression](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/5c1d5b6054a292690c62d35e7b5e661e15f031ce/Project_Stochastic_Gradient_Descent_on_Linear_Regression/15_Project_Stochastic_Gradient_Descent_on_Linear_Regression.ipynb)
