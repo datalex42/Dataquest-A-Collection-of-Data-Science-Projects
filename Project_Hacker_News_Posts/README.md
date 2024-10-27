@@ -10,3 +10,4 @@ It is to note that the dataset utilized underwent a reduction process, wherein n
 
 
 #### Project Link
+[Project_Hacker_News_Posts](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/3feacfa6fdddae0964d04d690646c18e9f0973a6/Project_Hacker_News_Posts/2_Project_Hacker_News_Posts.ipynb)
