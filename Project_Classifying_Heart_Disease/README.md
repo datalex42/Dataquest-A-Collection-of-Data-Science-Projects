@@ -1,1 +1,5 @@
+#### Project Introduction
+In this project we'll be looking at a real-life dataset: the Heart Disease Data Set from the UCI Machine Learning Repository. This dataset comes from the famous Cleveland Clinic Foundation, which recorded information on various patient characteristics, including age and chest pain, to try to classify the presence of heart disease in an individual. This a prime example of how machine learning can help solve problems that have a real impact on people's lives. We'll practice going through the machine learning pipeline, starting from examining the dataset itself to creating a polished classification model. Classification problems are much more common than regression problems, so it'll be good to get some practice.
 
+#### Project Link
+[Project_Classifying_Heart_Disease](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/d189c1825c465f05c1c88bb68a19545e9c9554f9/Project_Classifying_Heart_Disease/16_Project_Classifying_Heart_Disease.ipynb)
