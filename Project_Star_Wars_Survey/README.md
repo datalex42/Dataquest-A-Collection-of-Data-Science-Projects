@@ -4,3 +4,4 @@ The main focus of this project is the comprehensive cleaning and analysis of a s
 The analysis phase examines patterns within the data set and provides insights into audience feelings and preferences regarding the Star Wars films. By using data science techniques, this project aims to derive meaningful conclusions from the survey data and shed light on respondents' diverse perspectives and engagement with the iconic Star Wars franchise.
 
 #### Project Link
+[Project_Star_Wars_Survey](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/3dc1c8d8e282627cad7ce0be79959f3635abb296/Project_Star_Wars_Survey/8_Project_Star_Wars_Survey.ipynb)
