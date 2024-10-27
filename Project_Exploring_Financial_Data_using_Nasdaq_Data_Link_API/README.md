@@ -1,3 +1,4 @@
 #### Project Introduction
+In this project, we explore financial data using the Nasdaq Data Link API to gain insights into the financial health of various companies. By analyzing key financial metrics, such as 'accrued expenses turnover', we aim to understand how different organizations manage their short-term liabilities and overall financial efficiency. 'Accrued expenses turnover' is crucial as it reflects a company’s ability to settle outstanding debts, indicating liquidity and operational efficiency. This project uses Python to programmatically extract, clean, and visualize the data to uncover trends across various companies and geographical regions. The insights drawn from this analysis have practical applications in corporate finance, business strategy, and regional economic performance.
 
 #### Project Link
