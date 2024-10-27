@@ -10,4 +10,4 @@ How should we tailor marketing and communication strategies to customer behavior
 How much can we spend on acquiring new customers?
 
 #### Project Link
-[Project_Customers_and_Products_Analysis](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/8e3ac00766cb7086a119e07f294e56f3fd3ab6b5/Project_Customers_and_Products_Analysis/1_SQL_Project_Customers_and_Products_Analysis.ipynb)
+[Project_Customers_and_Products_Analysis](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/d3f371820b18b77153d9945ab3aa780ef32e6d47/Project_Customers_and_Products_Analysis/1_SQL_Project_Customers_and_Products_Analysis.ipynb)
