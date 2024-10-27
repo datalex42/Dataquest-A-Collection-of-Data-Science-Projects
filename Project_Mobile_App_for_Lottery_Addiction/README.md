@@ -10,3 +10,4 @@ In the initial iteration of the app, the focus will be on the 6/49 lottery. We a
 - What is the likelihood of matching at least five, four, three, or two winning numbers on a single ticket?
 
 #### Project Link
+[Project_Mobile_App_for_Lottery_Addiction](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/261c690fd0e9fe83ab4ab41d86b718f10ffd8939/Project_Mobile_App_for_Lottery_Addiction/2_STATISTICS_Project_Mobile_App_for_Lottery_Addiction.ipynb)
