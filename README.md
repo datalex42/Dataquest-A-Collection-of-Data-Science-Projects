@@ -8,6 +8,12 @@
 
 <hr>
 
+![Python](https://img.shields.io/badge/python-3.12.5-purple?logo=python&style=plastic)
+![Anaconda](https://img.shields.io/badge/Anaconda-2.6.3-green?logo=anaconda&style=plastic)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&style=plastic)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&style=plastic)
+![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&style=plastic)
+
 ### <center><p align = "left">👉 `Introduction`</p> </center>
 
 Welcome to my data science project repository! Here, you'll find a variety of projects that demonstrate the application of data science tools and techniques to solve real-world problems. These projects include data cleaning, exploratory data analysis, statistical analysis, machine learning, and data visualization. Each project is well-documented with a Jupyter Notebook to provide clear insights into the steps and methodologies used.
@@ -42,16 +48,6 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 - [Project Predicting Employee Productivity Using Tree Models](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/e2ed9f04142b8e137e966cd978ae29ea78c3bf13/Project_Predicting_Employee_Productivity_Using_Tree_Models/17_Project_Predicting_Employee_Productivity_Using_Tree_Models.ipynb)
 - [Project Optimizing Model Prediction](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/e2ed9f04142b8e137e966cd978ae29ea78c3bf13/Project_Optimizing_Model_Prediction/18_Project_Optimizing_Model_Prediction.ipynb)
 - [Project Predicting IPO Listing Gains with Neural Networks Using TensorFlow](https://github.com/datalex42/Dataquest-A-Collection-of-Data-Science-Projects/blob/e2ed9f04142b8e137e966cd978ae29ea78c3bf13/Project_Predicting_Listing_Gains_in_the_Indian_IPO_Market_Using_TensorFlow/19_Project_Predicting_Listing_Gains_in_the_Indian_IPO_Market_Using_TensorFlow.ipynb)
-
-<hr>
-
-### <center><p align = "left">🛠️ `Built With`</p> </center>
-
-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-- ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <hr>
 
