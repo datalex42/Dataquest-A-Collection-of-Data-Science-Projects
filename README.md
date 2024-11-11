@@ -56,7 +56,9 @@ Welcome to my data science project repository! Here, you'll find a variety of pr
 <hr>
 
 ### <center><p align = "left">🛣️ `Roadmap`</p> </center>
-... 
+
+The recording of the roadmap started in February 2024
+
 - [X] Project: Investigating Fandango Movie Ratings (completed on 02/21/24)
 - [X] Project: Finding the Best Markets to Advertise In (completed on 03/04/24)
 - [X] Project: Mobile App for Lottery Addiction (completed on 03/11/24)
