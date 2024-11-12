@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3.12.5-purple?logo=python&style=plastic)
 ![Anaconda](https://img.shields.io/badge/Anaconda-2.6.3-green?logo=anaconda&style=plastic)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&style=plastic)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&style=plastic)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-yellow?logo=postgresql&style=plastic)
 ![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&style=plastic)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10.0-cyan?logo=tensorflow&style=plastic)
 
